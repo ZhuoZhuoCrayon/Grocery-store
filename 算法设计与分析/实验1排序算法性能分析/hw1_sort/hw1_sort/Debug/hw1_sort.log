@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\administrator\onedrive\analysis_algorithm\hw1_sort\hw1_sort\源.cpp(115): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  hw1_sort.vcxproj -> C:\Users\Administrator\OneDrive\Analysis_algorithm\hw1_sort\Debug\hw1_sort.exe
