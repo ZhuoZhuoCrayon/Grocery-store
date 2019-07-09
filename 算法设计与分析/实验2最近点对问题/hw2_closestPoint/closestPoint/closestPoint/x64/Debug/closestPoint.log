@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\administrator\onedrive\算法设计与分析\实验2最近点对问题\hw2_closestpoint\closestpoint\closestpoint\源.cpp(195): warning C4101: “bound”: 未引用的局部变量
+c:\users\administrator\onedrive\算法设计与分析\实验2最近点对问题\hw2_closestpoint\closestpoint\closestpoint\源.cpp(194): warning C4101: “l”: 未引用的局部变量
+c:\users\administrator\onedrive\算法设计与分析\实验2最近点对问题\hw2_closestpoint\closestpoint\closestpoint\源.cpp(194): warning C4101: “r”: 未引用的局部变量
+  closestPoint.vcxproj -> C:\Users\Administrator\OneDrive\算法设计与分析\实验2最近点对问题\hw2_closestPoint\closestPoint\x64\Debug\closestPoint.exe

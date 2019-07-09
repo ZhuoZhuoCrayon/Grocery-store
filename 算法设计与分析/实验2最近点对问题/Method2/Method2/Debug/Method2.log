@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\onedrive\算法设计与分析\实验2最近点对问题\method2\method2\源.cpp(167): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\onedrive\算法设计与分析\实验2最近点对问题\method2\method2\源.cpp(159): warning C4101: “res_2”: 未引用的局部变量
+  Method2.vcxproj -> C:\Users\Administrator\OneDrive\算法设计与分析\实验2最近点对问题\Method2\Debug\Method2.exe
