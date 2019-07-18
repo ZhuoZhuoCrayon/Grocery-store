@@ -1,0 +1,4 @@
+algorithm_codeCheck：代码查重方法LCS，DINIC等的实现
+codeFormat：代码格式化、变量代换
+main：代码查重系统，请从这里开始运行
+testcode：测试数据集
